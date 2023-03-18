@@ -6,6 +6,9 @@ It has two modules :
 - Multiplayer
 
 formate of the game program :
+<br>
+<img height='300' src= "Board positions.JPG">
+<br>
 
 -----------------------------------------------------------
 
