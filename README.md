@@ -11,6 +11,11 @@ formate of the game program :
 <br>
 
 -----------------------------------------------------------
+<br>
+*This program was created by me 2 years ago from now (March 2023)  Im creating this new repository to catogorize my projects. Check it out !*
+https://github.com/Nrup2002/Tic-Tac-Toe.git
+<br>
+-----------------------------------------------------------
 
 👋 Hi, I’m @Nrup2002
 
